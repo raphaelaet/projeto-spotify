@@ -19,6 +19,6 @@ Para rodar o projeto localmente, siga os passos abaixo:
 3. Para compilar o projeto: `npm run build`
 4. Para iniciar o servidor: `npm run start`
 
-O projeto estará disponível localmente em (http://localhost:3001)
+O projeto estará disponível localmente em http://localhost:3001
 
 > *@raphalaet* 🍃
