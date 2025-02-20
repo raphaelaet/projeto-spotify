@@ -21,4 +21,4 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 O projeto estará disponível localmente em http://localhost:3001
 
-> *@raphalaet* 🍃
+> *@raphaelaet* 🍃
