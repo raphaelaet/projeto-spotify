@@ -15,9 +15,8 @@ Este projeto é uma réplica do Spotify, desenvolvido seguindo o Curso Jornada F
 Para rodar o projeto localmente, siga os passos abaixo:
 
 1. Clone este repositório: `git clone https://github.com/raphaelaet/projeto-spotify.git`
-2. Instale as dependências: `npm i`
-3. Para compilar o projeto: `npm run build`
-4. Para iniciar o servidor: `npm run start`
+2. Para instalar as dependências e compilar o projeto: `npm run build`
+3. Para iniciar o servidor: `npm run start`
 
 O projeto estará disponível localmente em http://localhost:3001
 
