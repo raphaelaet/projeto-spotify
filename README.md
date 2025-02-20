@@ -1,4 +1,4 @@
-# Projeto Spotify - Réplica do Spotify
+# Projeto Spotify
 
 Este projeto é uma réplica do Spotify, desenvolvido seguindo o Curso Jornada Full Stack da [Hashtag](https://www.youtube.com/@HashtagProgramacao). Ele contém algumas das funcionalidades da plataforma original e foi construído usando tecnologias do ecossistema JavaScript.
 **A aplicação está disponível online e pode ser acessada pelo link: [Réplica Spotify](https://projeto-spotify-fwaf.onrender.com/).**
